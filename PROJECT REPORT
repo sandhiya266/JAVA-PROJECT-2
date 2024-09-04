@@ -1,0 +1,36 @@
+Project Report: Grade Calculator
+
+Project Overview The Grade Calculator project is a Java-based application that calculates the total marks, average percentage, and assigns a grade based on the average percentage achieved. The program takes input marks obtained in each subject and provides a comprehensive report to the user.
+
+Project Objectives The primary objectives of this project are:
+
+To design and implement a Java program that calculates the total marks and average percentage based on input marks.
+To assign a grade based on the average percentage achieved.
+To provide a user-friendly interface for inputting marks and displaying results.
+Project Design and Implementation The project is implemented using Java programming language. The program uses a Scanner object to input the number of subjects and marks for each subject. It then calculates the total marks, average percentage, and assigns a grade based on the average percentage achieved. The results are displayed to the user using System.out.println statements.
+
+Project Features The Grade Calculator program has the following features:
+
+User input for number of subjects and marks for each subject.
+Calculation of total marks and average percentage.
+Assignment of grade based on average percentage achieved.
+Display of results, including total marks, average percentage, and grade.
+Project Testing and Debugging The program has been thoroughly tested with various input scenarios to ensure accurate results. Debugging was performed to handle potential errors and exceptions.
+
+Project Conclusion The Grade Calculator project is a successful implementation of a Java-based application that calculates total marks, average percentage, and assigns a grade based on the average percentage achieved. The program provides a user-friendly interface and accurate results, making it a useful tool for students and educators.
+
+Recommendations for Future Improvements Future improvements to the project could include:
+
+Adding more advanced features, such as weighted average calculations or grade point average (GPA) calculations.
+Implementing a graphical user interface (GUI) for a more user-friendly experience.
+Expanding the program to handle more complex grading systems or multiple semesters.
+Project Timeline The project was completed within a timeframe of [insert timeframe].
+
+Project Resources The project utilized the following resources:
+
+Java Development Kit (JDK) for coding and compilation.
+Eclipse Integrated Development Environment (IDE) for coding and debugging.
+Online resources and documentation for Java programming language.
+Code Listing The complete Java code listing for the Grade Calculator program is provided in the GradeCalculator.java file.
+
+Example Use Case An example use case of the program is provided in the Example Use Case section, demonstrating the input and output of the program.
